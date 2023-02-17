@@ -3,3 +3,15 @@ description: Welcome to my personal blog.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
+
+
+email: "example@mail.com"
+twitter_username: "twitteruser"
+github_username: "githubuser"
+linkedin_username: "linkedinuser"
+#facebook_username: username
+#flickr_username: username
+instagram_username: dspucch
+#pinterest_username: username
+#youtube_username: username
+#googleplus_username: +username
