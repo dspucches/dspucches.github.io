@@ -2,17 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# About Me
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Motivated and disciplined Cybersecurity professional and Army veteran that can work under pressure with an
+aptitude to make decisions. Lead member of a dynamic team focused on successful mission completion.
+Responsible for increasing efficiency in the workplace and decreasing downtime on company projects.
+Dedicated to guiding individuals to achieve their goals and tap into their infinite potential.
 
 ## Header 2
 
@@ -36,3 +32,5 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+
+[Link to another page](./another-page.html).
