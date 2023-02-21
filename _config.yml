@@ -2,7 +2,7 @@ title: Dominic Spucches
 description: Welcome to my personal blog.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-midnight
+theme: rouge-base16-dark
 
 
 email: "example@mail.com"
