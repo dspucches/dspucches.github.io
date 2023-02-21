@@ -26,39 +26,39 @@ employees meet regulatory compliance.
 performing ISSO and ISSM duties.
 
 # Jr. Network Engineer - April 2022 - June 2022
-. Resolve escalated customer issues and manage escalations further to internal support.
-. Perform level 2/3 troubleshooting of backup and restore failures on multiple platforms with varied
+- Resolve escalated customer issues and manage escalations further to internal support.
+- Perform level 2/3 troubleshooting of backup and restore failures on multiple platforms with varied
 configurations.
-. Assist in the design, installation, and management of organization-wide local area network, wide area
+- Assist in the design, installation, and management of organization-wide local area network, wide area
 network, network segmentation, and internet systems.
-. Analyze and provide recommendations for emerging network technologies.
-. Performed network maintenance and system upgrades including service packs, patches, hot fixed and
+- Analyze and provide recommendations for emerging network technologies.
+- Performed network maintenance and system upgrades including service packs, patches, hot fixed and
 security configurations.
 System Engineer – September 2021 – March 2022
-. Conduct audits of security controls and policies to ensure clients meet cybersecurity compliance.
-. Monitor anti-virus and firewall alerts for any intrusions and malware detection.
-. Conducted security assessments and made recommendations to decrease organizations threat vector
+- Conduct audits of security controls and policies to ensure clients meet cybersecurity compliance.
+- Monitor anti-virus and firewall alerts for any intrusions and malware detection.
+- Conducted security assessments and made recommendations to decrease organizations threat vector
 and mitigate any potential vulnerabilities.
-. Remediate vulnerabilities by staying up to date on known CVE’s and applying appropriate patches.
-. Managed application patches, data backup, security changes and network configuration, changed
+- Remediate vulnerabilities by staying up to date on known CVE’s and applying appropriate patches.
+- Managed application patches, data backup, security changes and network configuration, changed
 servers and loaded and tested software applications.
-. Monitored network and system capacity and performance, as well as diagnosed and resolved network
+- Monitored network and system capacity and performance, as well as diagnosed and resolved network
 and system problems.
-. Assisted in the development of security programs and security policy using appropriate standards and
+- Assisted in the development of security programs and security policy using appropriate standards and
 NIST guidance.
 
 # Movement Supervisor, March 2020 – January 2021
-. Provided qualitative analysis on movement programs for logistical support transportation functions
+- Provided qualitative analysis on movement programs for logistical support transportation functions
 and operations.
-. Communicate with credibility and confidence to superiors on present and future operations,
+- Communicate with credibility and confidence to superiors on present and future operations,
 capabilities, and technical problems in the Middle East.
-. Relocated multiple missile systems and personnel in support of a named operation that was directed
+- Relocated multiple missile systems and personnel in support of a named operation that was directed
 by the Secretary of Defense contributing to force protection capabilities to defend the United States
 and Coalition forces from Iranian aggression.
-. Displayed strong ability to analyze critical, informative data to aid in formulating the best solution to
+- Displayed strong ability to analyze critical, informative data to aid in formulating the best solution to
 meet international operations.
-. Possess remarkable knowledge of computer fundamentals by implementing new computer software
+- Possess remarkable knowledge of computer fundamentals by implementing new computer software
 that provided periodic updates to maintain an established connection to maintain work efficiency.
-. Provide technical assistance, support, and advice to end users of a small office computer network.
+- Provide technical assistance, support, and advice to end users of a small office computer network.
 
 [back](./)
