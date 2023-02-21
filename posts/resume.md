@@ -2,7 +2,7 @@
 
 <hr>
 # WORK HISTORY
-<hr>
+</hr>
 
 ### Information System Security Officer – June 2022 – Present
 
