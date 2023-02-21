@@ -20,9 +20,9 @@ practices.
 - Reduced open Plan of Actions & Milestones from 324 down to 110 within 6-month time frame.
 - iligently worked as a strong member of a team with the System and Network Administrators to
 ensure system approval and implementation of Army Sentinel.
-- Enforce regulatory Army Cyber Awareness training requirements to ensure the Watervliet Arsenal
+- Enforce regulatory Army Cyber Awareness training requirements to ensure the organizations
 employees meet regulatory compliance.
-- Seamlessly ensured convergence of the Watervliet Arsenal IT space under NETCOM while
+- Seamlessly ensured convergence of the organizational IT space under NETCOM while
 performing ISSO and ISSM duties.
 
 # Jr. Network Engineer - April 2022 - June 2022
