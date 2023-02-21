@@ -17,5 +17,3 @@ Motivated and disciplined Cybersecurity professional and Army veteran that can w
 aptitude to make decisions. Lead member of a dynamic team focused on successful mission completion.
 Responsible for increasing efficiency in the workplace and decreasing downtime on company projects.
 Dedicated to guiding individuals to achieve their goals and tap into their infinite potential.
-
-[Link to another page](./dspucches.github.io).
