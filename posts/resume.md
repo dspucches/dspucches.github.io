@@ -2,7 +2,7 @@
 
 # WORK HISTORY
 
-## Information System Security Officer – June 2022 – Present
+### Information System Security Officer – June 2022 – Present
 
 - Experienced ISSO in both active & passive evaluations, such as compliance audits and evaluations,
 using enterprise vulnerability tools (Splunk Enterprise, Nessus, ACAS/Tenable)
@@ -25,7 +25,7 @@ employees meet regulatory compliance.
 - Seamlessly ensured convergence of the organizational IT space under NETCOM while
 performing ISSO and ISSM duties.
 
-## Jr. Network Engineer - April 2022 - June 2022
+### Jr. Network Engineer - April 2022 - June 2022
 - Resolve escalated customer issues and manage escalations further to internal support.
 - Perform level 2/3 troubleshooting of backup and restore failures on multiple platforms with varied
 configurations.
@@ -47,7 +47,7 @@ and system problems.
 - Assisted in the development of security programs and security policy using appropriate standards and
 NIST guidance.
 
-## Movement Supervisor, March 2020 – January 2021
+### Movement Supervisor, March 2020 – January 2021
 - Provided qualitative analysis on movement programs for logistical support transportation functions
 and operations.
 - Communicate with credibility and confidence to superiors on present and future operations,
