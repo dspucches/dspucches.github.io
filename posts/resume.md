@@ -65,4 +65,18 @@ that provided periodic updates to maintain an established connection to maintain
 
 <hr>
 
+## Skills
+
+- Bow Hunting Skills
+
+<hr>
+
+## Education
+
+<hr>
+
+## Certifications
+
+
+
 [back](./)
