@@ -6,25 +6,26 @@ permalink: /posts/resume
 # WORK HISTORY
 
 # Information System Security Officer – June 2022 – Present
-. Experienced ISSO in both active & passive evaluations, such as compliance audits and evaluations,
+
+- Experienced ISSO in both active & passive evaluations, such as compliance audits and evaluations,
 using enterprise vulnerability tools (Splunk Enterprise, Nessus, ACAS/Tenable)
-. Acting Information System Security Manager (ISSM) for the first eight months in my position as an
+- Acting Information System Security Manager (ISSM) for the first eight months in my position as an
 ISSO.
-. Routinely worked with System and Network Administrators to properly implement Security
+- Routinely worked with System and Network Administrators to properly implement Security
 Technical Implementation Guides (STIG) for securing information system hardware and software
 applications.
-. Maintained and implemented appropriate NIST RMF Security Controls to enhance the organizations
+- Maintained and implemented appropriate NIST RMF Security Controls to enhance the organizations
 security posture.
-. Proactively cleaned a six-month stale EMASS record as a new ISSO to meet regulatory compliance
+- Proactively cleaned a six-month stale EMASS record as a new ISSO to meet regulatory compliance
 and an on-time Authorization to Operation submission.
-. Maintained and implemented the organizational security policies to inherit industry standards and best
+- Maintained and implemented the organizational security policies to inherit industry standards and best
 practices.
-. Reduced open Plan of Actions & Milestones from 324 down to 110 within 6-month time frame.
-. Diligently worked as a strong member of a team with the System and Network Administrators to
+- Reduced open Plan of Actions & Milestones from 324 down to 110 within 6-month time frame.
+- iligently worked as a strong member of a team with the System and Network Administrators to
 ensure system approval and implementation of Army Sentinel.
-. Enforce regulatory Army Cyber Awareness training requirements to ensure the Watervliet Arsenal
+- Enforce regulatory Army Cyber Awareness training requirements to ensure the Watervliet Arsenal
 employees meet regulatory compliance.
-. Seamlessly ensured convergence of the Watervliet Arsenal IT space under NETCOM while
+- Seamlessly ensured convergence of the Watervliet Arsenal IT space under NETCOM while
 performing ISSO and ISSM duties.
 
 # Jr. Network Engineer - April 2022 - June 2022
