@@ -1,6 +1,5 @@
 <p style="text-align: center;">Motivated and disciplined Cybersecurity professional and Army veteran that can work under pressure with an aptitude to make decisions. Lead member of a dynamic team focused on successful mission completion. Responsible for increasing efficiency in the workplace and decreasing downtime on company projects. Dedicated to guiding individuals to achieve their goals and tap into their infinite potential.</p>
 
-
 # WORK HISTORY
 
 # Information System Security Officer – June 2022 – Present
