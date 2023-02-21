@@ -2,7 +2,7 @@
 
 # WORK HISTORY
 
-## Information System Security Officer – June 2022 – Present
+### Information System Security Officer – June 2022 – Present
 
 - Experienced ISSO in both active & passive evaluations, such as compliance audits and evaluations,
 using enterprise vulnerability tools (Splunk Enterprise, Nessus, ACAS/Tenable)
