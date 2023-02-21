@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<p style="text-align: center;">“Passwords are like underwear: don’t let people see it, change it very often, and you shouldn’t share it with strangers.” – Chris Pirillo</p>
+
 
 # About Me
 
