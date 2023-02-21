@@ -35,4 +35,4 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-[Link to another page](./another-page.html).
+[Link to another page](./dspucches.github.io).
