@@ -2,6 +2,7 @@
 
 # WORK HISTORY
 <hr></hr>
+
 ### Information System Security Officer – June 2022 – Present
 
 - Experienced ISSO in both active & passive evaluations, such as compliance audits and evaluations,
