@@ -1,6 +1,8 @@
-layout: page
+---
+layout: default
 title: "PAGE-TITLE"
 permalink: /posts/cybersecurity/
+---
 
 # How to start my Cybersecurity career?
 
