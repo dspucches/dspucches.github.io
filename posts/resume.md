@@ -100,5 +100,3 @@ NIST guidance.
 - CompTIA Security+ 601
 
 <hr>
-
-[back](./)
