@@ -1,4 +1,7 @@
 
+# How to start my Cybersecurity career?
+
+<hr>
 
 Asking the right questions in any environment will aide in developing 99% of skillsets you want to achieve. A big question that many individuals looking to make a career change may ask is "How do I start my Cybersecurity career?". For some, it may seem quite intimidating, there is such a plethora of information scattered among the world wide web that you can indulge yourself into. When individuals hear "cybersecurity" they think of a guy wearing a black hoodie, running commands on an old, unix looking terminal, reading information propogating on the screen like it was a clip from The Matrix. Well, even though understanding how a terminal/command prompt works, and how to push commands through it to tell the machine what you want to do is good to know, it not what makes cybersecurity, cybersecurity.
 
