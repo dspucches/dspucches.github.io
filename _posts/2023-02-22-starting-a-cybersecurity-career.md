@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Starting a Cybersecurity Career"
+title: "Do you want to start a Cybersecurity career?"
 date: 2023-02-22
 ---
 
