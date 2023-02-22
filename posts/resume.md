@@ -81,7 +81,8 @@ NIST guidance.
 
 ## Skills
 
-- Bow Hunting Skills         - NIST
+- Bow Hunting Skills
+- NIST
 
 <hr>
 
@@ -93,6 +94,9 @@ NIST guidance.
 <hr>
 
 ## Certifications
+
+- CompTIA CySA+ Cybersecurity Analyst
+- CompTIA Security+ 601
 
 <hr>
 
