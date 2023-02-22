@@ -21,7 +21,7 @@
 @charset "UTF-8";
 
 .social-menu ul{
-    /**position: none;***/
+    position: static;
     top: 50%;
     left: 50%;
     padding: 0;
@@ -47,7 +47,7 @@
 }
 
 .social-menu ul li a{
-    /**position: relative;**/
+    position: static;
     display: block;
     width: 60px;
     height: 60px;
