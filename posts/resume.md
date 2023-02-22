@@ -91,7 +91,7 @@ NIST guidance.
 
 ## Education
 
-- Southern New Hampshire University - Bachelor of Applied Science - Cybersecurity and Program Management
+- Southern New Hampshire University - Bachelor of Science - Cybersecurity and Program Management
 - Hudson Valley Community College - Associates in Applied Science - Computer Information Systems: System and Network Administration
 
 <hr>
