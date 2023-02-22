@@ -98,7 +98,14 @@ NIST guidance.
 
 ## Certifications
 
-- CompTIA CySA+ Cybersecurity Analyst
-- CompTIA Security+ 601
+- CompTIA Security+ SY0-601 July 2021
+  Code: 0PF9RW4N9C11Q890
+- CompTIA CySA+ CS0-002 September 2022
+  Code: V8VYZHXSJJ4EQS9P
+- Google Technical Support Fundamentals February 2021
+- Aruba Product Specialist – Central May 2022
+- Aruba Certified Network Technician (ACNT) May 2022
+- ITGlue Certified Professional: User level 1 March 2022
+  Credential ID: 4gespsuv6535
 
 <hr>
