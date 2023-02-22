@@ -52,20 +52,6 @@ and system problems.
 - Assisted in the development of security programs and security policy using appropriate standards and
 NIST guidance.
 
-## Movement Supervisor, March 2020 – January 2021
-- Provided qualitative analysis on movement programs for logistical support transportation functions
-and operations.
-- Communicate with credibility and confidence to superiors on present and future operations,
-capabilities, and technical problems in the Middle East.
-- Relocated multiple missile systems and personnel in support of a named operation that was directed
-by the Secretary of Defense contributing to force protection capabilities to defend the United States
-and Coalition forces from Iranian aggression.
-- Displayed strong ability to analyze critical, informative data to aid in formulating the best solution to
-meet international operations.
-- Possess remarkable knowledge of computer fundamentals by implementing new computer software
-that provided periodic updates to maintain an established connection to maintain work efficiency.
-- Provide technical assistance, support, and advice to end users of a small office computer network.
-
 ## System Engineer – September 2021 – March 2022
 
 - Conduct audits of security controls and policies to ensure clients meet cybersecurity compliance.
@@ -79,6 +65,20 @@ servers and loaded and tested software applications.
 and system problems.
 - Assisted in the development of security programs and security policy using appropriate standards and
 NIST guidance.
+
+## Movement Supervisor, March 2020 – January 2021
+- Provided qualitative analysis on movement programs for logistical support transportation functions
+and operations.
+- Communicate with credibility and confidence to superiors on present and future operations,
+capabilities, and technical problems in the Middle East.
+- Relocated multiple missile systems and personnel in support of a named operation that was directed
+by the Secretary of Defense contributing to force protection capabilities to defend the United States
+and Coalition forces from Iranian aggression.
+- Displayed strong ability to analyze critical, informative data to aid in formulating the best solution to
+meet international operations.
+- Possess remarkable knowledge of computer fundamentals by implementing new computer software
+that provided periodic updates to maintain an established connection to maintain work efficiency.
+- Provide technical assistance, support, and advice to end users of a small office computer network.
 
 <hr>
 
