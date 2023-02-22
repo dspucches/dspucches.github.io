@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PAGE-TITLE"
-permalink: /posts/cybersecurity/
+permalink: /posts/blogposts/cybersecurity/
 ---
 
 # How to start my Cybersecurity career?
