@@ -5,6 +5,6 @@ I like to take the time to help others in their quest to find their passion, hel
 
 ## Latest Posts
 
-<a href="dspucches.github.io/posts/blogposts/cybersecurity.md">How to start my Cybersecurity career?</a>
+<a href="https://dspucches.github.io/posts/blogposts/cybersecurity.md">How to start my Cybersecurity career?</a>
 
 <a href="https://dspucches.github.io/posts/2023-02-22-How-to-start-my-cybersecurity-career.md">How to start my Cybersecurity career?</a>
