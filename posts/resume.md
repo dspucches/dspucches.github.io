@@ -63,6 +63,20 @@ meet international operations.
 that provided periodic updates to maintain an established connection to maintain work efficiency.
 - Provide technical assistance, support, and advice to end users of a small office computer network.
 
+## System Engineer – September 2021 – March 2022
+
+- Conduct audits of security controls and policies to ensure clients meet cybersecurity compliance.
+- Monitor anti-virus and firewall alerts for any intrusions and malware detection.
+- Conducted security assessments and made recommendations to decrease organizations threat vector
+and mitigate any potential vulnerabilities.
+- Remediate vulnerabilities by staying up to date on known CVE’s and applying appropriate patches.
+- Managed application patches, data backup, security changes and network configuration, changed
+servers and loaded and tested software applications.
+- Monitored network and system capacity and performance, as well as diagnosed and resolved network
+and system problems.
+- Assisted in the development of security programs and security policy using appropriate standards and
+NIST guidance.
+
 <hr>
 
 ## Skills
