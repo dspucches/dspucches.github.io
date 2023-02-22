@@ -3,5 +3,6 @@ description: Welcome to my personal blog.
 show_downloads: false
 google_analytics:
 remote_theme: pages-themes/midnight@v0.2.0
+plugins_dir: ./_scripts
 plugins:
   -jekyll-remote-theme
