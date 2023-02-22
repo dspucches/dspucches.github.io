@@ -2,7 +2,6 @@
 layout: default
 title: "Starting a Cybersecurity Career"
 date: 2023-02-22
-permalink: /_posts/2023-02-22-starting-a-cybersecurity-career
 ---
 
 # How to start my Cybersecurity career?
