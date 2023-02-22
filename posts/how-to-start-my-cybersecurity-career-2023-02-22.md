@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # How to start my Cybersecurity career?
 
