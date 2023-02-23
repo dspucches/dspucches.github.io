@@ -22,10 +22,10 @@ First, I'd figure out what roll that may sound appealing to you within the field
 
 ## Gaining Education
 
-###Certifications
+### Certifications
 
 Now, I know there is quite the conflict between whether or not if they are worth it. In my opinion, I believe certifications represent that you understand the basic knowledge of that topic you studied so hard for to pass that exam. I do not believe they represent that youre able to do everything under the sun. There are some certifications that are worth more weight than others, such as the CompTIA Security+ certification which is a basic level certification required by the Department of Defense in order for you to work within their IT departments. On the other hand, you have the CISSP or the Certified Information Systems Security Professional exam. The CISSP is quite a robust exam and does have a minimum requirement. Let's look below at some certifications.
 
-*__CompTIA Security+__ - 
+* __CompTIA Security+__ - 
 
 <hr>
