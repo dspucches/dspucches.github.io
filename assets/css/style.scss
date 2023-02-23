@@ -15,85 +15,61 @@
   font-size: 16px;
 }
 
-.social-networks {
-  margin: 0 0 35px;
-  padding: 0;
-  font-size: 0;
-  text-align: center;
+body{
+    background: #d8d8d8;
+}
 
-  li {
-    display: inline-block;
-  }
+.social-menu ul{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 0;
+    margin: 0;
+    transform: translate(-50%, -50%);
+    display: flex;
+}
 
-  a {
-    display: block;
+.social-menu ul li{
+    list-style: none;
+    margin: 0 15px;
+}
+
+.social-menu ul li .fab{
+    font-size: 30px;
+    line-height: 60px;
+    transition: .3s;
+    color: #000;
+}
+
+.social-menu ul li .fab:hover{
+    color: #fff;
+}
+
+.social-menu ul li a{
     position: relative;
-    margin: 0 7px;
-    width: 48px;
-    height: 48px;
-    font-size: 0;
-    line-height: 0;
+    display: block;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #fff;
     text-align: center;
-    text-decoration: none;
+    transition: .6s;
+    box-shadow: 0 5px 4px rgba(0,0,0,.5);
+}
 
-    &:before {
-      content: "";
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      width: 100%;
-      height: 100%;
-      margin-top: -50%;
-      margin-left: -50%;
-      border-radius: 100px;
-      background-color: #424242;
-      transition: all 400ms;
-    }
+.social-menu ul li a:hover{
+    transform: translate(0, -10%);
+}
 
-    &:after {
-      position: relative;
-      display: block;
-      font-family: 'icomoon';
-      speak: none;
-      font-style: normal;
-      font-weight: normal;
-      font-variant: normal;
-      text-transform: none;
-      line-height: 1;
-      color: #fff;
-      font-size: 26px;
-      line-height: 50px;
-    }
-
-    &:hover, &:focus {
-      text-decoration: none;
-    }
-  }
-  
-  &.spin-icon a:hover:after, &.spin-icon a:focus:after {
-    transition: transform 0.4s ease-out;
-    transform: rotateZ(360deg);
-  }
-  
-  &.square a:hover:before, &.square a:focus:before {
-    border-radius: 0;
-  }
-  
-  &.bounce a:hover, &.bounce a:focus {
-    animation: bounce 1s;
-  }
-  
-  $networks: linkedin '\eac9' #0077b5, facebook '\e603' #3b5998, twitter '\e618' #00b0ed, github '\eab1' #4183c4, instagram '\e604' #3f729b, vimeo '\ea9c' #1ab7ea, twitch '\ea9b' #6441a5, pinterest '\e605' #cc2127;
-  
-  @each $network in $networks {
-     .icon-#{nth($network, 1)} {
-       &:after {
-         content: '#{nth($network, 2)}';
-      }
-
-      &:hover:before, &:focus:before {
-        background: nth($network, 3);
-      }
-    }
-  }
+.social-menu ul li:nth-child(1) a:hover{
+    background-color: rgba(0, 0, 0, 0.829);
+}
+.social-menu ul li:nth-child(2) a:hover{
+    background-color: #E4405F;
+}
+.social-menu ul li:nth-child(3) a:hover{
+    background-color: #0077b5;
+}
+.social-menu ul li:nth-child(4) a:hover{
+    background-color: #000;
 }
