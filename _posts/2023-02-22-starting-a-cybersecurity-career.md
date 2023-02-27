@@ -31,4 +31,17 @@ Now, I know there is quite the conflict between whether or not if they are worth
 * [__Cisco Certified Network Associate__](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) - I know some of you may not feel this would be a cybersecurity certification but I believe in having core knowledge of how networks work. The CompTIA Network+ is an alternative option but does not go into too much detail but does focus on network security. Even though the CCNA is a Cisco proprietary certification, most networking ideologies do not change across the board. This exam covers networking fundamentals, IP services, security fundamentals, automation and programmability. Designed for agility and versatility, CCNA validates that you have the skills required to manage and optimize today's most advanced networks.
 * [__Cisco Certified Support Technician (CCST) Cybersecurity__](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry.html) - Welcome the CCST as a brand new cybersecurity certification coming to the industry from Cisco. First introduced in 2023, this certification will validate your knowledge of entry-level netwworking concepts and topics. It will also demonstrate your *foundational* knowledge and skills needed to show how networks operate, including devices, media, and protocols that enable network communications. You may find similar concepts and material that coincide with the CompTIA Security+ certficiation.
 
+### Web-Training & Exams
+
+* Udemy
+* Professor Messor
+* Jason Dion
+* David Bombal
+
+### Hands-On Training
+
+* TryHackMe
+* HackTheBox
+* LetsDefend
+
 <hr>
