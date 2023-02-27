@@ -33,10 +33,10 @@ Now, I know there is quite the conflict between whether or not if they are worth
 
 ### Web-Training & Exams
 
-* Udemy
-* Professor Messor
-* Jason Dion
+* [__Udemy__](https://udemy.com) - Udemy is an amazing resource for any Information Technology Training. This training resource has a plethora of items if you want to study networking, cybersecurity, programming, scripting, building websites, Microsoft applications, practice exams and much much more. Unfortunately, majority of training resources do come at a cost of roughly $15 when videos are "on-sale". Majority of the time, most resources will be in the sub-fifteen dollar range even though the "sale" is ending soon. If the sale does end, just wait a week or two for the product to go "on-sale" again.
+* [__Jason Dion__](https://www.diontraining.com/home) - 
 * David Bombal
+* Professor Messor
 
 ### Hands-On Training
 
