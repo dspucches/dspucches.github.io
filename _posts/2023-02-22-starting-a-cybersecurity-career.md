@@ -34,7 +34,7 @@ Now, I know there is quite the conflict between whether or not if they are worth
 ### Web-Training & Exams
 
 * [__Udemy__](https://udemy.com) - Udemy is an amazing resource for any Information Technology Training. This training resource has a plethora of items if you want to study networking, cybersecurity, programming, scripting, building websites, Microsoft applications, practice exams and much much more. Unfortunately, majority of training resources do come at a cost of roughly $15 when videos are "on-sale". Majority of the time, most resources will be in the sub-fifteen dollar range even though the "sale" is ending soon. If the sale does end, just wait a week or two for the product to go "on-sale" again.
-* [__Jason Dion__](https://www.diontraining.com/home) - 
+* [__Jason Dion__](https://www.diontraining.com/home) - Personally, I have not used Jason Dion for any type of visual or analog training material, but I did use Jasons' practice exams for my [__CompTIA Security+__](https://www.udemy.com/course/security-601-exams/) and [__CompTIA CySA+__](https://www.udemy.com/course/comptiacysaexam/) exams. I found these practice exams beyond beneficial in preparing for the proctored exam. 
 * David Bombal
 * Professor Messor
 
