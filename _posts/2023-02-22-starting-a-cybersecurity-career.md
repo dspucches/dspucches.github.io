@@ -4,7 +4,7 @@ title: "Do you want to start a Cybersecurity career?"
 date: 2023-02-22
 ---
 
-# How to start my Cybersecurity career?
+# How to start a Cybersecurity career?
 
 <hr>
 
