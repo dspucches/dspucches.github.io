@@ -42,7 +42,7 @@ Boot Camps... i have a strong opinion against boot camps and rightfully so. In m
 
 ### Hands-On Training
 
-* [__TryHackMe__](https://tryhackme.com/dashboard) -
+* [__TryHackMe__](https://tryhackme.com/dashboard) - TryHackMe is an online platform that teaches cyber security through short, gamified real-world labs. We have content for both complete beginners and seasoned hackers, incorporation guides and challenges to cater for different learning styles. This platform provides several different learning paths as well that revolve around red teaming and blue teaming. Some learning paths for beginners wold be the Complete Beginner which focuses on Web Application Security, Network Security, Basic Linux, and Scripting. If you would like to get a graspe on being that cool hacker with a black hoodie you can start the Jr. Penetration Tester and Red Teaming learning paths that consist of using pentesting methodologies and tactics, enumeration, exploitationn, and reporting, realistic hands-on hacking exercises, and security tools in the industry. For the Blue Teamers, the SOC (Security Operations Center) Level 1 learning path would be a great start. This path consists of detect and analyse traffic anomalies, monitor endpoints for threats, utilise SIEM tools to handle incidents, and investigate forensic artifacts.
 * [__HackTheBox__](https://www.hackthebox.com/) -
 * [__LetsDefend__](https://letsdefend.io/) - 
 
