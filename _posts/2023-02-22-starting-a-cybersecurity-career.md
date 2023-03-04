@@ -46,6 +46,12 @@ Boot Camps... i have a strong opinion against boot camps and rightfully so. In m
 * [__HackTheBox__](https://www.hackthebox.com/) - Hack The Box is a massive hacking playground, and infosec community of over 1.7m platform members who learn, hack, play, exchange ideas and methodologies.An online cybersecurity training platform that allows individuals, businesses, universities, and all kinds of organizations all around the world to level up their offensive and defensive security skills through a fully gamified and engaging learning environment. Basically, you get all of these different machines you get to try and capture the flag (CTF) in or hack into. They have all difficulties levels to challenge your skills, there is also a [HackTheBox university](https://www.hackthebox.com/universities) that is an interacive, hands-on training for students to learn how to break into machines. 
 * [__LetsDefend__](https://letsdefend.io/) - LetsDefend is an amazing training tool that helps build your blue team skills with hands-on experience by investigating real cyber attacks simulated in a Security Operations Center. Personally, I really love LetsDefend and how intuitive it is. I definitely recommend LetsDefend but the monthly subscription is pretty steep, $40/month.
 
+### Capture the Flag (CTF)
+
+Capture the flag games or events are amazing ways to test your problem solving, analytical skills, and system knowledge to search for a "Flag" within a machines. Most CTF will indicate what you're actually looking for and may even give hints on where it could be. 
+
 ### Reddit
 
+
 <hr>
+
