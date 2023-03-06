@@ -40,7 +40,7 @@
     const active = document.querySelector(".mynav li.active");
 
     if (active) {
-      const left = active.getBoundingClientRect().left + window.pageXOffset;
+      <!--const left = active.getBoundingClientRect().left + window.pageXOffset;-->
       const top = active.getBoundingClientRect().top + window.pageYOffset;
 
       target.style.left = `${left}px`;
