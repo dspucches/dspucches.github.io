@@ -18,10 +18,6 @@ a {
   box-shadow: inset 0 -1px 0 hsla(0, 0%, 100%, 0.4);
 }
 
-li:last-child {
-  grid-row: 1 / 2;
-}
-
 li:hover ~ li p {
   animation: wave-animation 0.3s infinite;
 }
