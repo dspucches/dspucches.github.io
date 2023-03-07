@@ -7,17 +7,17 @@
 .mynavbar {
   text-align: center;
   display: inline-block;
-  //grid-auto-flow: row;
-  //grid-gap: 24px;
-  //justify-items: center;
+  grid-auto-flow: row;
+  grid-gap: 24px;
+  justify-items: center;
   margin: auto;
 }
 
-@media (min-width: 500px) {
-  ul {
+//@media (min-width: 500px) {
+ // ul {
     grid-auto-flow: column;
-  }
-}
+//  }
+//}
 
 a {
   color: white;
