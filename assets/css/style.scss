@@ -3,34 +3,6 @@
 
 @import "jekyll-theme-midnight";
 
-.mynav ul {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  list-style-type: none;
-  padding: 0;
-}
-.mynav li:not(:last-child) {
-  margin-right: 20px;
-}
-.mynav a {
-  display: block;
-  font-size: 20px;
-  color: #e0a21b;
-  text-decoration: none;
-  padding: 7px 15px;
-}
-.target {
-  position: absolute;
-  border-bottom: 4px solid transparent;
-  z-index: -1;
-  transform: translateX(-60px);
-}
-.mynav a,
-.target {
-  transition: all .35s ease-in-out;
-}
-
 .social-menu ul{
     position: relative;
     top: 50%;
