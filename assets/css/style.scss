@@ -4,23 +4,6 @@
 
 @import "jekyll-theme-midnight";
 
-.center {
-  position: relative;
-  display: block;
-  text-align: center;
-}
-
-a {
-  color: white;
-  text-decoration: none;
-  box-shadow: inset 0 -1px 0 hsla(0, 0%, 100%, 0.4);
-}
-
-li:hover ~ li p {
-  animation: wave-animation 0.3s infinite;
-}
-
-
 @keyframes wave-animation {
   0%,
   100% {
