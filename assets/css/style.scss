@@ -12,11 +12,11 @@ ul {
   margin: auto;
 }
 
-/*//@media (min-width: 500px) {
-//  ul {
-//    grid-auto-flow: column;
-//  }
-//}*/
+@media (min-width: 500px) {
+.navbar {
+    grid-auto-flow: column;
+  }
+}
 
 a {
   color: white;
