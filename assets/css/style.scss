@@ -39,14 +39,14 @@ li:hover ~ li p {
 
 /* below is just for demo styling */
 
-//div {
-//  display: flex;
-//  height: 100vh;
-//  width: 100%;
-//  background-color: #002a38;
-//  line-height: 1.3;
-//  font-family: Menlo, monospace;
-//}
+.navbar {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  background-color: #002a38;
+  line-height: 1.3;
+  font-family: Menlo, monospace;
+}
 
 @keyframes wave-animation {
   0%,
