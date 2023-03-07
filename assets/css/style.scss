@@ -15,13 +15,17 @@
 
 ul {
   display: inline;
-  text-align: center;  
+  text-align: center;
 }
 
 a {
   color: white;
   text-decoration: none;
   box-shadow: inset 0 -1px 0 hsla(0, 0%, 100%, 0.4);
+}
+
+li {
+  display: inline;
 }
 
 li:last-child {
