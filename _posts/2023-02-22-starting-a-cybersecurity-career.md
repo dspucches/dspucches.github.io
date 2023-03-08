@@ -55,7 +55,7 @@ See below for CTF exercises
 
 * [__Over The Wire__](https://overthewire.org)
 * [__Hack the Box__](https://hackthebox.eu)
-* [_ Try Hack Me__](https://tryhackme.com)
+* [__Try Hack Me__](https://tryhackme.com)
 * [__Vuln Hub__](https://vulnhub.com)
 * [__Root Me__](https://root-me.org)
 * [__Ringzer 0 Team__](https://ringzer0team.com)
