@@ -70,6 +70,21 @@ See below for CTF exercises
 
 ### Reddit
 
+Reddit is such an amazing tool and platform for finding out information for many different topics and one of those would be Cybersecurity! I have composed a list below for popular reddit threads for IT and security folks.
+
+[__r/Cybersecurity__](https://www.reddit.com/r/cybersecurity/)
+[__r/Cybersecurity Help__](https://www.reddit.com/r/cybersecurity_help)
+[__r/HackTheBox__](https://www.reddit.com/r/hackthebox/)
+[__r/NetSec__](https://www.reddit.com/r/netsec/)
+[__r/AskNetSec__](https://www.reddit.com/r/AskNetsec/)
+[__r/SysAdmin__](https://www.reddit.com/r/sysadmin/)
+[__r/SecurityCareerAdvice__](https://www.reddit.com/r/SecurityCareerAdvice/)
+[__r/ITCareerQuestions__](https://www.reddit.com/r/ITCareerQuestions/)
+[__r/BlueTeamSec__](https://www.reddit.com/r/blueteamsec/)
+[__r/SecurityBlueTeam__](https://www.reddit.com/r/SecurityBlueTeam/)
+[__r/RedTeamSec__](https://www.reddit.com/r/redteamsec/)
+[__r/Hacking__](https://www.reddit.com/r/hacking/)
+
 ### Books
 
 ### Events
