@@ -82,7 +82,7 @@ Reddit is such an amazing tool and platform for finding out information for many
 * [__r/ITCareerQuestions__](https://www.reddit.com/r/ITCareerQuestions/) - This subreddit is designed to help anyone in or interested in the IT field to ask career-related questions.
 * [__r/BlueTeamSec__](https://www.reddit.com/r/blueteamsec/) - We focus on technical intelligence, research and engineering to help operational blue and purple teams defend their estates and have awareness of the world.
 * [__r/SecurityBlueTeam__](https://www.reddit.com/r/SecurityBlueTeam/) - A subreddit dedicated the security training company Security Blue Team.
-* [__r/RedTeamSec__](https://www.reddit.com/r/redteamsec/) - A subreddit dedicated to red and blue teaming content. Discussions @ [https://discord.gg/mTvPzuT](https://discord.gg/mTvPzuT) - Twitter: [@r_redteamsec](https://twitter.com/r_redteamsec) & [https://twitter.com/](https://twitter.com/domchell)
+* [__r/RedTeamSec__](https://www.reddit.com/r/redteamsec/) - A subreddit dedicated to red and blue teaming content. Discussions @ [https://discord.gg/mTvPzuT](https://discord.gg/mTvPzuT) - Twitter: [@r_redteamsec](https://twitter.com/r_redteamsec) & [@domchell](https://twitter.com/domchell)
 * [__r/Hacking__](https://www.reddit.com/r/hacking/) - A subreddit dedicated to hacking and hackers. Constructive collaboration and learning about exploits, industry standards, grey and white hat hacking, new hardware and software hacking technology, sharing ideas and suggestions for small business and personal security.
 
 ### Podcasts
