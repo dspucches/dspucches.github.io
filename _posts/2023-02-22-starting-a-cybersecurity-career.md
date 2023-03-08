@@ -92,5 +92,7 @@ Reddit is such an amazing tool and platform for finding out information for many
 ### Homelabs
 
 ### Events
+
+### Discord Channels
 <hr>
 
