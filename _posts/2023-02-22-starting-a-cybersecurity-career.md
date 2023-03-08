@@ -72,20 +72,24 @@ See below for CTF exercises
 
 Reddit is such an amazing tool and platform for finding out information for many different topics and one of those would be Cybersecurity! I have composed a list below for popular reddit threads for IT and security folks.
 
-[__r/Cybersecurity__](https://www.reddit.com/r/cybersecurity/)
-[__r/Cybersecurity Help__](https://www.reddit.com/r/cybersecurity_help)
-[__r/HackTheBox__](https://www.reddit.com/r/hackthebox/)
-[__r/NetSec__](https://www.reddit.com/r/netsec/)
-[__r/AskNetSec__](https://www.reddit.com/r/AskNetsec/)
-[__r/SysAdmin__](https://www.reddit.com/r/sysadmin/)
-[__r/SecurityCareerAdvice__](https://www.reddit.com/r/SecurityCareerAdvice/)
-[__r/ITCareerQuestions__](https://www.reddit.com/r/ITCareerQuestions/)
-[__r/BlueTeamSec__](https://www.reddit.com/r/blueteamsec/)
-[__r/SecurityBlueTeam__](https://www.reddit.com/r/SecurityBlueTeam/)
-[__r/RedTeamSec__](https://www.reddit.com/r/redteamsec/)
-[__r/Hacking__](https://www.reddit.com/r/hacking/)
+* [__r/Cybersecurity__](https://www.reddit.com/r/cybersecurity/) - A community for current or aspiring technical professionals to discuss cybersecurity, threats, etc.
+* [__r/Cybersecurity Help__](https://www.reddit.com/r/cybersecurity_help) - Learn ethical hacking for free. A community for the tryhackme.com platform.
+* [__r/HackTheBox__](https://www.reddit.com/r/hackthebox/) - Discussion about hackthebox.com machines!
+* [__r/NetSec__](https://www.reddit.com/r/netsec/) - /r/netsec is a community-curated aggregator of technical information security content. Our mission is to extract signal from the noise — to provide value to security practitioners, students, researchers, and hackers everywhere.
+* [__r/AskNetSec__](https://www.reddit.com/r/AskNetsec/) - A community built to knowledgeably answer questions related to information security in an enterprise, large organization, or SOHO context.
+* [__r/SysAdmin__](https://www.reddit.com/r/sysadmin/) - A reddit dedicated to the profession of Computer System Administration.
+* [__r/SecurityCareerAdvice__](https://www.reddit.com/r/SecurityCareerAdvice/) - This subreddit is designed to help anyone in or interested in the IT field to ask career-related questions.
+* [__r/ITCareerQuestions__](https://www.reddit.com/r/ITCareerQuestions/) - This subreddit is designed to help anyone in or interested in the IT field to ask career-related questions.
+* [__r/BlueTeamSec__](https://www.reddit.com/r/blueteamsec/) - We focus on technical intelligence, research and engineering to help operational [blue|purple] teams defend their estates and have awareness of the world.
+* [__r/SecurityBlueTeam__](https://www.reddit.com/r/SecurityBlueTeam/) - A subreddit dedicated the security training company Security Blue Team.
+* [__r/RedTeamSec__](https://www.reddit.com/r/redteamsec/) - A subreddit dedicated to red and blue teaming content. Discussions @ https://discord.gg/mTvPzuT - Twitter: @r_redteamsec & @domchell
+* [__r/Hacking__](https://www.reddit.com/r/hacking/) - A subreddit dedicated to hacking and hackers. Constructive collaboration and learning about exploits, industry standards, grey and white hat hacking, new hardware and software hacking technology, sharing ideas and suggestions for small business and personal security.
+
+### Podcasts
 
 ### Books
+
+### Homelabs
 
 ### Events
 <hr>
