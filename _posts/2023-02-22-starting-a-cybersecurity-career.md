@@ -49,10 +49,29 @@ Boot Camps... i have a strong opinion against boot camps and rightfully so. In m
 
 ### Capture the Flag (CTF)
 
-Capture the flag games or events are amazing ways to test your problem-solving, analytical skills, and system knowledge to search for a "Flag" within a machines. Most CTF will indicate what you're actually looking for and may even give hints on where it could be. 
+Capture the flag games or events are amazing ways to test your problem-solving, analytical skills, and system knowledge to search for a "Flag" within a machines. Most CTF will indicate what you're actually looking for and may even give hints on where it could be. CTF's allow you to think outside the box and learn how software can be exploited. When you become more experienced in this career field as well as practicing CTF's you can attend CTF events/competitions.
+
+See below for CTF exercises
+
+[__Over The Wire__](https://overthewire.org)
+[__Hack the Box__](https://hackthebox.eu)
+[__ Try Hack Me__](https://tryhackme.com)
+[__Vuln Hub__](https://vulnhub.com)
+[__Root Me__](https://root-me.org)
+[__Ringzer 0 Team__](https://ringzer0team.com)
+[__Hack.me__](https://hack.me)
+[__CTF Time__](https://ctftime.org)
+[__Pico CTF__](https://picoctf.com)
+[__CTF 365__](https://ctf365.com)
+[__CTF 101__](https://ctf101.org)
+[__247 CTF__](https://247ctf.com)
+
+
 
 ### Reddit
 
 ### Books
+
+### Events
 <hr>
 
