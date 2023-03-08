@@ -73,7 +73,8 @@ See below for CTF exercises
 Reddit is such an amazing tool and platform for finding out information for many different topics and one of those would be Cybersecurity! I have composed a list below for popular reddit threads for IT and security folks.
 
 * [__r/Cybersecurity__](https://www.reddit.com/r/cybersecurity/) - A community for current or aspiring technical professionals to discuss cybersecurity, threats, etc.
-* [__r/Cybersecurity Help__](https://www.reddit.com/r/cybersecurity_help) - Learn ethical hacking for free. A community for the tryhackme.com platform.
+* [__r/Cybersecurity Help__](https://www.reddit.com/r/cybersecurity_help) - This subreddit is r/techsupport but focused on cybersecurity questions. Questions about individual security and safety online are welcome. Please follow the posting guide (rule #2) for all questions so you can be helped accurately and efficiently!
+* [__r/TryHackMe__](https://www.reddit.com/r/tryhackme/) - Learn ethical hacking for free. A community for the tryhackme.com platform.
 * [__r/HackTheBox__](https://www.reddit.com/r/hackthebox/) - Discussion about hackthebox.com machines!
 * [__r/NetSec__](https://www.reddit.com/r/netsec/) - /r/netsec is a community-curated aggregator of technical information security content. Our mission is to extract signal from the noise — to provide value to security practitioners, students, researchers, and hackers everywhere.
 * [__r/AskNetSec__](https://www.reddit.com/r/AskNetsec/) - A community built to knowledgeably answer questions related to information security in an enterprise, large organization, or SOHO context.
