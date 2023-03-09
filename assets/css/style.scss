@@ -29,7 +29,7 @@
   padding: 7px 15px;
 }
 
-.target {
+/*.target {
   position: absolute;
   border-bottom: 4px solid transparent;
   z-index: -1;
@@ -39,7 +39,7 @@
 .navbar a,
 .target {
   transition: all .35s ease-in-out;
-}
+}*/
 
 .navbar li:hover ~ li p {
   animation: wave-animation 0.3s infinite;
