@@ -7,7 +7,7 @@
 .navbar {
   position: relative;
   text-align: center;
-  display: inline-block;
+  display: inline-grid;
   grid-auto-flow: row;
   grid-gap: 24px;
   justify-items: center;
