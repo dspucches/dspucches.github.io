@@ -13,6 +13,7 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  list-style-type: none;
   padding: 0;
 }
 
@@ -21,7 +22,7 @@
 }*/
 
 .navbar a {
-  /*display: block;*/
+  display: block;
   font-size: 20px;
   color: white;
   text-decoration: none;
