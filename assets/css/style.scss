@@ -4,7 +4,7 @@
 
 @import "jekyll-theme-midnight";
 
-/**.navbar {
+.navbar {
   position: relative;
   text-align: center;
   display: inline-grid;
@@ -45,7 +45,7 @@ li:hover ~ li p {
   75% {
     transform: rotate(-15deg);
   }
-} */
+}
 
 .social-menu ul{
     position: relative;
