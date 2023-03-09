@@ -4,6 +4,12 @@
 
 @import "jekyll-theme-midnight";
 
+
+h1 {
+  text-align: center;
+  margin: 80px 0;
+}
+
 .navbar ul {
   display: flex;
   justify-content: center;
