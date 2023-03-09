@@ -36,8 +36,9 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         </div>
-        <h1 class="mynav">
-            <ul class="navbar" align=center>
+        <div class="navbar">
+          <h1 class="mynav">
+            <ul align=center>
               <li><p>👋</p></li>
               <li><a href="https://dspucches.github.io">Home</a></li>
               <li><a href="https://dspucches.github.io/2023/02/22/resume.html">Resume</a></li>
@@ -45,7 +46,8 @@
               <li><a href="https://dspucches.github.io/2023/03/07/news.html">News</a></li>
               <li><a href="https://dspucches.github.io/2023/03/07/contact.html">Contact</a></li>
             </ul>
-        </h1>
+          </h1>
+        </div>
         {{content}}    
       </section>
     </div>
