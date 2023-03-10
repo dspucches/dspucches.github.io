@@ -88,6 +88,11 @@ Reddit is such an amazing tool and platform for finding out information for many
 
 ### Podcasts
 
+Podcasts are an amazing educational and entertainment resource for when you are on the go. You can listen to podcasts while driving or on the treadmill at the gym. I personally love to listen to podcasts where I am able to gain some knowledge about a topic I am interested in or general personal development. A few podcasts that I recommend for cybersecurity professionals are listed below. 
+
+[__Puals Security Weekly__](https://open.spotify.com/show/0YC8VPkCkfmrDuiEulxkC6)
+[__DarkNet Diaries__](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5)
+
 ### Books
 
 ### Homelabs
