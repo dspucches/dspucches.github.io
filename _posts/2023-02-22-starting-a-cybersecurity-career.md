@@ -90,12 +90,16 @@ Reddit is such an amazing tool and platform for finding out information for many
 
 Podcasts are an amazing educational and entertainment resource for when you are on the go. You can listen to podcasts while driving or on the treadmill at the gym. I personally love to listen to podcasts where I am able to gain some knowledge about a topic I am interested in or general personal development. A few podcasts that I recommend for cybersecurity professionals are listed below. 
 
-[__Puals Security Weekly__](https://open.spotify.com/show/0YC8VPkCkfmrDuiEulxkC6)
-[__DarkNet Diaries__](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5)
+* [__Puals Security Weekly__](https://open.spotify.com/show/0YC8VPkCkfmrDuiEulxkC6) - For the latest in computer security news, hacking, and research! We sit around, drink beer, and talk security. Our show will feature technical segments that show you how to use the latest tools and techniques. Special guests appear on the show to enlighten us and change your perspective on information security.
+* [__DarkNet Diaries__](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5) - Explore true stories of the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of hacking, data breaches, and cyber crime.
+* [__Risky Business__](https://open.spotify.com/show/2jzD9zn7R2d6erZz2ULLeQ) - Risky Business is a weekly information security podcast featuring news and in-depth interviews with industry luminaries. Launched in February 2007, Risky Business is a must-listen digest for information security pros. With a running time of approximately 50-60 minutes, Risky Business is pacy; a security podcast without the waffle.
+* [__Malicious LIfe__](https://open.spotify.com/show/1KHIsaZ9mX0NbzPrfId00q) - Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians.
+
+
 
 ### Books
 
-### Homelabs
+### Homelab(s)
 
 ### Events
 
