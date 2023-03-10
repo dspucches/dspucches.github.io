@@ -3,7 +3,7 @@
 
 @import "jekyll-theme-midnight";
 
-.mynav ul {
+.my-nav ul {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -11,11 +11,11 @@
   padding: 0;
 }
 
-.mynav li:not(:last-child) {
+.my-nav li:not(:last-child) {
   margin-right: 20px;
 }
 
-.mynav a {
+.my-nav a {
   display: block;
   font-size: 20px;
   color: #e0a21b;
@@ -23,7 +23,7 @@
   padding: 7px 15px;
 }
 
-.socialmedia ul {
+.social-menu ul {
   position:absolute;
   top:50%;
   left:50%;
@@ -33,11 +33,11 @@
   display:flex;
 }
 
-.socialmedia ul li {
+.social-menu ul li {
   list-style: none;
 }
 
-.socialmedia ul li a {
+.social-menu ul li a {
   position: relative;
   width:60px;
   height:60px;
@@ -53,12 +53,12 @@
   transition: .5s;
 }
 
-.socialmedia ul li a:hover {
+.social-menu ul li a:hover {
   box-shadow: 0 2px 5px rgba(0,0,0,0.3);
   text-decoration:none;
 }
 
-.socialmedia ul li a .fab {
+.social-menu ul li a .fab {
   widht: 100%;
   height:100%;
   display:block;
@@ -70,22 +70,22 @@
   transition: .5s;
 }
 
-.socialmedia ul li:nth-child(1) a:hover .fab {
+.social-menu ul li:nth-child(1) a:hover .fab {
   color: #3b5998;
 }
 
-.socialmedia ul li:nth-child(2) a:hover .fab {
+.social-menu ul li:nth-child(2) a:hover .fab {
   color: #00aced;
 }
 
-.socialmedia ul li:nth-child(3) a:hover .fab {
+.social-menu ul li:nth-child(3) a:hover .fab {
   color: #dd4b39;
 }
 
-.socialmedia ul li:nth-child(4) a:hover .fab {
+.social-menu ul li:nth-child(4) a:hover .fab {
   color: #007bb6;
 }
 
-.socialmedia ul li:nth-child(5) a:hover .fab {
+.social-menu ul li:nth-child(5) a:hover .fab {
   color: #e4405f;
 }

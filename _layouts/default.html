@@ -31,33 +31,29 @@
     <script src="https://kit.fontawesome.com/66aa7c98b3.js" crossorigin="anonymous"></script>
   </head>
   <body>
-    <div class="wrapper">
-      <section>
-        <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-        </div>
-          <nav class="mynav">
-            <ul>
-              <li><a href="https://dspucches.github.io">Home</a></li>
-              <li><a href="https://dspucches.github.io/2023/02/22/resume.html">Resume</a></li>
-              <li><a href="https://dspucches.github.io/2023/02/22/posts.html">Posts</a></li>
-              <li><a href="https://dspucches.github.io/2023/03/07/news.html">News</a></li>
-              <li><a href="https://dspucches.github.io/2023/03/07/contact.html">Contact</a></li>
-            </ul>
-          </nav>
-        {{content}}    
-      </section>
+  <section>
+    <div id="title">
+      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      <p>{{ site.description | default: site.github.project_tagline }}</p>
     </div>
-  </body>
-  <footer>
-    <div>
-      <ul class="socialmedia">
-        <li><a href="https://twitter.com/dominicspucches"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
-        <li><a href="https://github.com/dspucches"><i class="fab fa-github" aria-hidden="true"></i></a></li>
-        <li><a href="https://www.linkedin.com/in/dspucches/"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
-        <li><a href="https://www.instagram.com/dspucch/"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
+    <nav class="my-nav">
+      <ul>
+        <li><a href="https://dspucches.github.io">Home</a></li>
+        <li><a href="https://dspucches.github.io/2023/02/22/resume.html">Resume</a></li>
+        <li><a href="https://dspucches.github.io/2023/02/22/posts.html">Posts</a></li>
+        <li><a href="https://dspucches.github.io/2023/03/07/news.html">News</a></li>
+        <li><a href="https://dspucches.github.io/2023/03/07/contact.html">Contact</a></li>
       </ul>
-    </div>
-  </footer>
+    </nav>
+    {{content}}
+  </section>
+  </body>
+<div class="social-menu">
+  <ul align=center>
+    <li><a href="https://github.com/dspucches" target="blank"><i class="fab fa-github"></i></a></li>
+    <li><a href="https://www.instagram.com/dspucch/" target="blank"><i class="fab fa-instagram"></i></a></li>
+    <li><a href="https://www.linkedin.com/in/dspucches/" target="blank"><i class="fab fa-linkedin-in"></i></a></li>
+    <li><a href="https://twitter.com/dominicspucches" target="blank" class="fab fa-twitter" ></a></li>
+  </ul>
+</div>
 </html>
