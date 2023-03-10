@@ -96,8 +96,9 @@ Podcasts are an amazing educational and entertainment resource for when you are 
 * [__Malicious LIfe__](https://open.spotify.com/show/1KHIsaZ9mX0NbzPrfId00q) - Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians.
 
 
-
 ### Books
+
+There are plenty of cybersecurity books out there some are great for educational purposes and others are true stories from the industry. 
 
 ### Homelab(s)
 
