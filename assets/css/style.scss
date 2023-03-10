@@ -43,13 +43,6 @@ $new-shadow-active: 0px 0px 10px 6px rgba(0,0,0,0.1);
 }
 
 html,
-body {
-  @include flex(row, center, center);
-  background: #eceff1;
-  height: 100vh;
-  width: 100vw;
-  font-family: "Open Sans";
-}
 
 .buttons-container {
   @include flex(row, space-between, center);
