@@ -1,8 +1,9 @@
 ---
 ---
 
-
 @import "jekyll-theme-midnight";
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
 
 .mynav ul {
   display: flex;
@@ -24,58 +25,66 @@
   padding: 7px 15px;
 }
 
-.social-menu ul{
-    position: relative;
-    top: 50%;
-    left: 50%;
-    padding: 0;
-    margin: 0;
-    transform: translate(-50%, -50%);
-    display: flex;
-    justify-content: center
+
+@mixin flex ($direction, $justify, $align) {
+  display:flex;
+  flex-direction: $direction;
+  justify-content: $justify;
+  align-items: $align;
 }
 
-.social-menu ul li{
-    list-style: none;
-    margin: 0 15px;
+$neu-shadow: 9px 9px 16px rgba(163,177,198,0.6), -9px -9px 16px rgba(255,255,255,0.5);
+
+$new-shadow-active: 0px 0px 10px 6px rgba(0,0,0,0.1);
+
+* {
+  margin: 0px;
+  box-sizing: border-box;
 }
 
-.social-menu ul li .fab{
-    font-size: 30px;
-    line-height: 60px;
-    transition: .3s;
-    color:  #e0a21b;
+html,
+body {
+  @include flex(row, center, center);
+  background: #eceff1;
+  height: 100vh;
+  width: 100vw;
+  font-family: "Open Sans";
 }
 
-.social-menu ul li .fab:hover{
-    color: #fff;
+.buttons-container {
+  @include flex(row, space-between, center);
+  width:60%;
+  flex-wrap: wrap;
 }
 
-.social-menu ul li a{
-    position: relative;
-    display: block;
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    background-color: #4f4f4f;
-    text-align: center;
-    transition: .6s;
-    box-shadow: 0 5px 4px rgba(0,0,0,.5);
+.button {
+  @include flex(row, center, center);
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  box-shadow: $neu-shadow;
+  margin-bottom: 1em;
+
+  &:hover {
+    // border: 2px solid white;
+    cursor:pointer;
+    box-shadow: $new-shadow-active;
+    color: white;
+  }
 }
 
-.social-menu ul li a:hover{
-    transform: translate(0, -10%);
+.twitter:hover {
+  background: #1da1f2;
 }
 
-.social-menu ul li:nth-child(1) a:hover{
-    background-color: rgba(0, 0, 0, 0.829);
+.instagram:hover {
+  background:linear-gradient(135deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
 }
-.social-menu ul li:nth-child(2) a:hover{
-    background-color: #E4405F;
+
+.github:hover {
+  background: black;
 }
-.social-menu ul li:nth-child(3) a:hover{
-    background-color: #0077b5;
-}
-.social-menu ul li:nth-child(4) a:hover{
-    background-color: #000;
+
+.linkedin:hover {
+  background: #ff6314;
 }
