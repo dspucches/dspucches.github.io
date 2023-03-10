@@ -4,12 +4,7 @@
 
 @import "jekyll-theme-midnight";
 
-.mynav h1 {
-  text-align: center;
-  margin: 80px 0;
-}
-
-.navbar ul {
+.mynav ul {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -17,32 +12,28 @@
   padding: 0;
 }
 
-.navbar li:not(:last-child) {
+.mynav li:not(:last-child) {
   margin-right: 20px;
 }
 
-.navbar a {
+.mynav a {
   display: block;
   font-size: 20px;
-  color: white;
+  color: black;
   text-decoration: none;
   padding: 7px 15px;
 }
 
-/*.target {
+.target {
   position: absolute;
   border-bottom: 4px solid transparent;
   z-index: -1;
   transform: translateX(-60px);
 }
 
-.navbar a,
+.mynav a,
 .target {
   transition: all .35s ease-in-out;
-}*/
-
-.navbar li:hover ~ li p {
-  animation: wave-animation 0.3s infinite;
 }
 
 @keyframes wave-animation {
