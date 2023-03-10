@@ -24,18 +24,6 @@
   padding: 7px 15px;
 }
 
-.target {
-  position: absolute;
-  border-bottom: 4px solid transparent;
-  z-index: -1;
-  transform: translateX(-60px);
-}
-
-.mynav a,
-.target {
-  transition: all .35s ease-in-out;
-}
-
 .social-menu ul{
     position: relative;
     top: 50%;
