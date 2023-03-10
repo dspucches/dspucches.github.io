@@ -26,12 +26,12 @@
 }
 
 
-@mixin flex ($direction, $justify, $align) {
+/*@mixin flex ($direction, $justify, $align) {
   display:flex;
   flex-direction: $direction;
   justify-content: $justify;
   align-items: $align;
-}
+}*/
 
 $neu-shadow: 9px 9px 16px rgba(163,177,198,0.6), -9px -9px 16px rgba(255,255,255,0.5);
 
