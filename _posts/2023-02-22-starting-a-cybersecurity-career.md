@@ -98,7 +98,21 @@ Podcasts are an amazing educational and entertainment resource for when you are 
 
 ### Books
 
-There are plenty of cybersecurity books out there some are great for educational purposes and others are true stories from the industry. 
+“A reader lives a thousand lives before he dies . . . The man who never reads lives only one.” - George R.R. Martin
+
+There are plenty of cybersecurity books out there some are great for educational purposes and others are true stories from the industry. Reading is a foundational part of increasing our intelligence by exercising the muscle we know as our brain. This could be a daily exercise for you even if it is 10-15 minutes per day. Reading has many benefits, one of which increasing your vocabulary. So let's dive into some relevant literature to get started in your cybersecurity career.
+
+#### Non-Fiction
+
+* [__Cuckoos Egg__](https://amzn.to/3FhcHkG) - Author Clifford Stoll, an astronomer by training, managed computers at Lawrence Berkeley National Laboratory (LBNL) in California. One day in 1986 his supervisor asked him to resolve an accounting error of 75 cents in the computer usage accounts. Stoll traced the error to an unauthorized user who had apparently used nine seconds of computer time and not paid for it. Stoll eventually realized that the unauthorized user was a hacker who had acquired superuser access to the LBNL system by exploiting a vulnerability in the movemail function of the original GNU Emacs. [Reference](https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book))
+* [__Ghost in the Wires__](https://amzn.to/3mQkLCc) - Kevin Mitnick was the most elusive computer break-in artist in history. He accessed computers and networks at the world's biggest companies -- and no matter how fast the authorities were, Mitnick was faster, sprinting through phone switches, computer systems, and cellular networks. As the FBI's net finally began to tighten, Mitnick went on the run, engaging in an increasingly sophisticated game of hide-and-seek that escalated through false identities, a host of cities, and plenty of close shaves, to an ultimate showdown with the Feds, who would stop at nothing to bring him down.
+* [__Countdown to Zero Day__](https://amzn.to/3JikgJ4) - A top cybersecurity journalist tells the story behind the virus (Stuxnet) that sabotaged Iran’s nuclear efforts and shows how its existence has ushered in a new age of warfare—one in which a digital attack can have the same destructive capability as a megaton bomb.
+
+#### Educational Books
+
+* [__The Smartest Man in the Room__](https://amzn.to/3TcAXdu) - In The Smartest Person in the Room, Christian Espinosa shows you how to leverage your company’s smartest minds to your benefit and theirs. Learn from Christian’s own journey from cybersecurity engineer to company CEO. He describes why a high IQ is a lost superpower when effective communication, true intelligence, and self-confidence are not embraced. With his seven-step methodology and stories from the field, Christian helps you develop your team’s technical minds so they become better humans and strong leaders who excel in every role. This book provides you with an enlightening perspective of how to turn your biggest unknown weakness into your strongest defense.
+* [__Blue Team Handbook__](https://amzn.to/3l5KWEC) - Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases is having an amazing impact on Security Operations worldwide. BTHb:SOCTH is the go-to guiding book for new staff at a top 10 MSSP, integrated into University curriculum, and cited in top ten courses from a major information security training company. This listing is for BTHb:SOCTH provides the security practitioner with numerous field notes on building a security operations team, managing SIEM, and mining data sources to get the maximum amount of information out of them with a threat hunting approach. The author shares his fifteen years of experience with SIEMs and security operations is a no frills, just information format.
+* [__Blue Team Field Manual (BTFM)__](https://amzn.to/3T91PLa) - Blue Team Field Manual (BTFM) is a Cybersecurity Incident Response Guide that aligns with the NIST Cybersecurity Framework consisting of the five core functions of Identify, Protect, Detect, Respond, and Recover by providing the tactical steps to follow and commands to use when preparing for, working through and recovering from a Cybersecurity Incident.
 
 ### Homelab(s)
 
