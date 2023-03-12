@@ -61,6 +61,21 @@
 .topnav .icon {
   display: none;
 }
+.contact-button {
+    display: block;
+    width: 220px;
+    line-height: 55px;
+    border-radius: 0.2rem;
+    background-color: #efefef;
+    margin: 1rem auto;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.375rem;
+    font-weight: 300;
+    color: #333333;
+    transition: all 0.2s ease;
+}
 
 .my-social ul {
   display: flex;
