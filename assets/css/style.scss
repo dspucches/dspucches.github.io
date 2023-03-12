@@ -3,87 +3,76 @@
 
 @import "jekyll-theme-midnight";
 
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
-}
-html,body{
-  display: grid;
-  height: 100%;
-  width: 100%;
-  place-items: center;
-}
-.wrapper .button{
 
-  height: 60px;
-  width: 60px;
-  float: left;
-  margin: 0 5px;
-  overflow: hidden;
-  background: #fff;
-  border-radius: 50px;
-  cursor: pointer;
-  box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
-  transition: all 0.3s ease-out;
+
+ul {
+  display: flex;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
-.wrapper .button:hover{
-  width: 200px;
+
+ul li {
+  list-style: none;
 }
-.wrapper .button .icon{
-  display: inline-block;
-  height: 60px;
-  width: 60px;
+
+ul li a {
+  width: 80px;
+  height: 80px;
+  background-color: #fff;
   text-align: center;
-  border-radius: 50px;
-  box-sizing: border-box;
-  line-height: 60px;
-  transition: all 0.3s ease-out;
+  line-height: 80px;
+  font-size: 35px;
+  margin: 0 10px;
+  display: block;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  border: 3px solid #fff;
+  z-index: 1;
 }
-.wrapper .button:nth-child(1):hover .icon{
-  background: #4267B2;
+
+ul li a .icon {
+  position: relative;
+  color: #262626;
+  transition: .5s;
+  z-index: 3;
 }
-.wrapper .button:nth-child(2):hover .icon{
-  background: #1DA1F2;
-}
-.wrapper .button:nth-child(3):hover .icon{
-  background: #E1306C;
-}
-.wrapper .button:nth-child(4):hover .icon{
-  background: #333;
-}
-.wrapper .button:nth-child(5):hover .icon{
-  background: #ff0000;
-}
-.wrapper .button .icon i{
-  font-size: 25px;
-  line-height: 60px;
-  transition: all 0.3s ease-out;
-}
-.wrapper .button:hover .icon i{
+
+ul li a:hover .icon {
   color: #fff;
+  transform: rotateY(360deg);
 }
-.wrapper .button span{
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 60px;
-  margin-left: 10px;
-  transition: all 0.3s ease-out;
+
+ul li a:before {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #f00;
+  transition: .5s;
+  z-index: 2;
 }
-.wrapper .button:nth-child(1) span{
-  color: #4267B2;
+
+ul li a:hover:before {
+  top: 0;
 }
-.wrapper .button:nth-child(2) span{
-  color: #1DA1F2;
+
+ul li:nth-child(1) a:before{
+  background: #3b5999;
 }
-.wrapper .button:nth-child(3) span{
-  color: #E1306C;
+
+ul li:nth-child(2) a:before{
+  background: #55acee;
 }
-.wrapper .button:nth-child(4) span{
-  color: #333;
+
+ul li:nth-child(3) a:before {
+  background: #0077b5;
 }
-.wrapper .button:nth-child(5) span{
-  color: #ff0000;
+
+ul li:nth-child(4) a:before {
+  background: #dd4b39;
 }
