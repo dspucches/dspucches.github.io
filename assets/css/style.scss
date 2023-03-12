@@ -3,7 +3,10 @@
 
 @import "jekyll-theme-midnight";
 
-
+footer {
+  position: absolute;
+  right: 0;bottom:0;left:0;
+}
 
 .my-social ul {
   display: flex;
