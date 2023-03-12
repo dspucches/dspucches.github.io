@@ -21,12 +21,12 @@ footer {
 }
 
 .my-social ul li a {
-  width: 80px;
-  height: 80px;
+  width: 40px;
+  height: 40px;
   background-color: #fff;
   text-align: center;
-  line-height: 80px;
-  font-size: 35px;
+  line-height: 40px;
+  font-size: 15px;
   margin: 0 10px;
   display: block;
   border-radius: 50%;
@@ -37,7 +37,7 @@ footer {
 }
 
 .my-social ul li a .icon {
-  position: relative;
+  position: absolute;
   color: #262626;
   transition: .5s;
   z-index: 3;
