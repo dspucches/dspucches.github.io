@@ -10,6 +10,12 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+html,body{
+  display: grid;
+  height: 100%;
+  width: 100%;
+  place-items: center;
+}
 .wrapper .button{
 
   height: 60px;
