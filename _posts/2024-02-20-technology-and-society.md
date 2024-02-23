@@ -44,7 +44,7 @@ Because of groups and agencies such as CISA, there may not have been a formal in
 
 **References:**
 - A Brief History of The Evolution of Malware | FortiGuard Labs. (2022, March 15). Fortinet Blog. [Link](https://www.fortinet.com/blog/threat-research/evolution-of-malware)
-- Dobran, B. (2021, November 4). HIPAA Compliance Checklist: How Do I Become Compliant? phoenixNAP Blog. [Link](https://phoenixnap.com/blog/hipaa-compliance-checklist)
+- Dobran, B. (2021, November 4) HIPAA Compliance Checklist: How Do I Become Compliant? phoenixNAP Blog. [Link](https://phoenixnap.com/blog/hipaa-compliance-checklist)
 - NCBI - WWW Error Blocked Diagnostic. (2021). NCBI. [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7798008/)
 - Poulsen, K., McMillan, R., & Evans, M. (2021, September 30). A Hospital Hit by Hackers, a Baby in Distress: The Case of the First Alleged Ransomware Death. WSJ. [Link](https://www.wsj.com/articles/ransomware-hackers-hospital-first-alleged-death-11633008116)
 - Ransomware Protection Solutions - Prevent Ransomware Attacks | IBM. (2022). IBM. [Link](https://www.ibm.com/security/ransomware?utm_content=SRCWW)
