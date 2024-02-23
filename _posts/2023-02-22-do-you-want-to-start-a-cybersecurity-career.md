@@ -8,7 +8,7 @@ categories: [Educational]
 ---
 <hr>
 
-# How to start a Cybersecurity career ?
+# How to start a Cybersecurity career?
 
 <hr>
 
