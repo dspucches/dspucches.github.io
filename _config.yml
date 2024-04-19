@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Dominic Spucches # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: My professional blog. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,23 +26,23 @@ description: >- # used by seo meta and the atom feed
 url: "https://dspucches.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: dspucches # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: dominicspucches # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Dominic Spucches
+  email: contact@dominicspucches.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/dominicspucches # change to your twitter homepage
+    - https://github.com/dspucches # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/dominicspucches
+    - https://www.linkedin.com/in/dspucches
 
 google_site_verification: # fill in to your verification string
 
