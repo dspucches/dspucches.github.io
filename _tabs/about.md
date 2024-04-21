@@ -9,6 +9,14 @@ order: 4
 
 # About Me
 
+## First things first
+
+**I've been the victim of what's called, Romance Scams. When I was on deployment in 2020 i started a fitness instagram which involved my photos to be public. Since then, someone has been using my photos and mainly my last name in Romance Scams around the country and who knows where else. I receive messages from many different women stating this man is deployed to Africa and has shot a Giraffe and needs money to pay the fine, or whatever other excuse hes trying to use to swindle you. He has a photoshopped copy of my military ID, and many pictures of myself. He has fabricated emails and states he is a Master Sergeant (MSG) or other ranks. Do NOT act on this, block and delete. If you happen to be a victim, please report this to https://ic3.gov**
+
+Thank you.
+
+## Moving on...
+
 I'm a cybersecurity enthusiast with a passion for protecting digital landscapes. With under three years of experience in the field, I've embarked on a dynamic journey, starting from the trenches of Managed Service Providers (MSPs) to the frontline of Information System Security. My transition from a Network Engineer to a Threat Hunting Analyst has equipped me with a diverse skill set and a keen eye for emerging threats.
 
 Outside of the digital realm, I've proudly served in the army, deploying three times, where I honed invaluable skills in leadership and adaptability. These experiences have shaped my approach to cybersecurity, emphasizing the importance of diligence, resilience, and proactive defense.
