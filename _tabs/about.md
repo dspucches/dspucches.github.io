@@ -14,7 +14,7 @@ order: 4
 **I've been the victim of what's called, Romance Scams. When I was on deployment in 2020 i started a fitness instagram which involved my photos to be public. Since then, someone has been using my photos and mainly my last name in Romance Scams around the country and who knows where else. I receive messages from many different women stating this man is deployed to Africa and has shot a Giraffe and needs money to pay the fine, or whatever other excuse hes trying to use to swindle you. He has a photoshopped copy of my military ID, and many pictures of myself. He has fabricated emails and states he is a Master Sergeant (MSG) or other ranks. Do NOT act on this, block and delete. I have deactivated my Facebook and Instagram, I do not have TikTok, Snapchat, or Tinder.**
 
 
-**If you happen to be a victim, please report this to [https://ic3.gov] **
+**If you happen to be a victim, please report this to [FBI Internet Crime Complaint Center (IC3)](https://ic3.gov)**
 
 **Thank you.**
 
