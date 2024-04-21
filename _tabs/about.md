@@ -16,7 +16,7 @@ order: 4
 
 **If you happen to be a victim, please report this to https://ic3.gov**
 
-Thank you.
+**Thank you.**
 
 ## Moving on...
 
@@ -26,6 +26,14 @@ Outside of the digital realm, I've proudly served in the army, deploying three t
 
 Through this blog, I aim to share insights, tips, and best practices in cybersecurity while respecting privacy boundaries. Join me on this exciting journey as we navigate the ever-evolving landscape of digital security together!
 
+## TryHackMe
+
+ <script src="https://tryhackme.com/badge/738080"></script>
+
+## Hack The Box
+
+
+## Certifications
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0b994760-cc84-408f-a630-89f89fe3143d" data-share-badge-host="https://www.credly.com"></div>
 <script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
