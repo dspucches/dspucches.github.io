@@ -2,3 +2,51 @@
 layout: home
 # Index page
 ---
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <script>
+    async function checkAccess() {
+      if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(async (position) => {
+          const userLocation = {
+            lat: position.coords.latitude,
+            lng: position.coords.longitude
+          };
+
+          try {
+            const response = await fetch('https://my-geofence-app-1aae110b4856.herokuapp.com/', {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json'
+              },
+              body: JSON.stringify({ userLocation })
+            });
+
+            const result = await response.json();
+            if (result.isInside) {
+              document.getElementById('content').style.display = 'block';
+            } else {
+              document.getElementById('content').style.display = 'none';
+              alert('Access denied.');
+            }
+          } catch (error) {
+            console.error('Error:', error);
+          }
+        }, (error) => {
+          console.error('Error getting geolocation:', error);
+        });
+      } else {
+        console.error('Geolocation is not supported by this browser.');
+      }
+    }
+
+    window.onload = checkAccess;
+  </script>
+</head>
+</html>
+
