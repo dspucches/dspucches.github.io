@@ -201,3 +201,31 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
+name: Add geofencing script
+run: |
+  echo "<script>
+    async function checkAccess() {
+      try {
+        const response = await fetch('https://git.heroku.com/my-geofence-app.git/check-location', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+        });
+
+        const result = await response.json();
+        if (result.allowed) {
+          document.getElementById('content').style.display = 'block';
+        } else {
+          document.getElementById('content').style.display = 'none';
+          alert('Access denied.');
+        }
+      } catch (error) {
+        console.error('Error:', error);
+      }
+    }
+
+    window.onload = checkAccess;
+  </script>" >> ./_site/index.html
